@@ -49,4 +49,4 @@ MATH: 0xA3141ACCaF1666EFf57dccd105CfE30Ff593Eb1B
 
 ## Docs
 
-https://htmlpreview.github.io/?https://github.com/Azuro-protocol/Azuro-V1/blob/main/docs/index.html#/
+https://htmlpreview.github.io/?https://github.com/Azuro-protocol/Azuro-V1/master/docs/index.html#/
