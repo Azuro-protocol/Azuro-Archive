@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BTTS-protocol/BTTS-v1-core/issues"
+    "url": "https://github.com/Azuro-protocol/Azuro-V1/issues"
   },
-  "homepage": "https://github.com/BTTS-protocol/BTTS-v1-core#readme",
+  "homepage": "https://github.com/Azuro-protocol/Azuro-V1#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-ganache": "^2.0.0",
